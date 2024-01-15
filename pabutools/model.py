@@ -2,6 +2,7 @@ from __future__ import annotations
 from pathlib import Path
 import csv
 
+# Remove this
 class Voter:
     def __init__(self,
             id : str,
